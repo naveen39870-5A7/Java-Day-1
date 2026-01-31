@@ -1,9 +1,4 @@
-public class Basicvarible {
-int a =10;
-int b =200;
-int c=a+b;
-
-  
+public class Basicvarible {  
     public static void main(String[] args) {
         // System.out.println("hello punith");
         // System.out.println("Happy birthday puni");
@@ -18,4 +13,5 @@ int c=a+b;
          System.out.println(a+b);
        
     }}
+
 
